@@ -9,21 +9,22 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 ---
 **Hafta** | **Konu** | **Açıklama**
 --------- | -------- | ------------
-1.Hafta | Veri Yapılarına Giriş | 
-2.Hafta | Veri Yapılarına Giriş | 
-3.Hafta | Veri Yapılarına Giriş | 
-4.Hafta | Veri Yapılarına Giriş | 
-5.Hafta | Veri Yapılarına Giriş | 
-6.Hafta | Veri Yapılarına Giriş | 
-7.Hafta | Veri Yapılarına Giriş | 
-8.Hafta | Arasınav Haftası | 
-9.Hafta | Veri Yapılarına Giriş | 
-10.Hafta | Veri Yapılarına Giriş | 
-11.Hafta | Veri Yapılarına Giriş | 
-12.Hafta | Veri Yapılarına Giriş | 
-13.Hafta | Veri Yapılarına Giriş | 
-14.Hafta | Veri Yapılarına Giriş | 
-15.Hafta | Dönem Sonu Sınavı | 
+1.Hafta | Veri Yapılarına Giriş ve Python Programlamaya Giriş | 
+2.Hafta | Python Programlama (Nesne Yönelimli Programlama) | 
+3.Hafta | Diziler, Bağlı Listeler ve Özyineleme | 
+4.Hafta | Analiz Araçları | 
+5.Hafta | Yığınlar, Kuyruklar ve Çift-Sonlu Kuyruklar | 
+6.Hafta | Liste ve Ardışıl ADTler | 
+7.Hafta | Ağaçlar | 
+8.Hafta | Heapler ve Öncelikli Kuyruklar | 
+9.Hafta | Arasınav Haftası | 
+10.Hafta | Hash Tabloları, Mapler ve Skip Listeleri | 
+11.Hafta | Arama Ağaçları | 
+12.Hafta | Sıralama, Kümeler ve Seçme | 
+13.Hafta | Stringler ve Dinamik Programlama | 
+14.Hafta | Graf Algoritmaları | 
+15.Hafta | Bellek Yönetimi ve B-Ağaçlar | 
+16.Hafta | Dönem Sonu Sınavı | 
 
 ### Kaynak[lar]
 <img src="https://images-na.ssl-images-amazon.com/images/I/61KBExHOcRL._SX379_BO1,204,203,200_.jpg" width="156" height="200">
