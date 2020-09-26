@@ -8,4 +8,4 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 ### Haftalık Ders İçerikleri
 
 ### Kaynak[lar]
-(https://images-na.ssl-images-amazon.com/images/I/61KBExHOcRL._SX379_BO1,204,203,200_.jpg)
+![DS_Book](https://images-na.ssl-images-amazon.com/images/I/61KBExHOcRL._SX379_BO1,204,203,200_.jpg)
