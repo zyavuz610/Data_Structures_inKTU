@@ -4,7 +4,7 @@ t2 = temp
 print(id(temp))
 print(id(t2))
 
-temp = 95
+temp = 95.0
 t2 = temp
 t2 = 100 # a new dynamic variable
 print(temp)
