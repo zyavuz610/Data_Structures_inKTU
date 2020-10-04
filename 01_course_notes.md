@@ -6,6 +6,7 @@ Bilgisayar = Bilgi + Sayar
 Bu ders bilginin (temel yapıtaşı veri) organizasyonu ile ilgilenmektedir. Ayrıca bu ders kapsamında algoritma ve programlama kısmına da değinilmektedir.
 
 **Veri**: bellekte yer kaplayan her türlü nesne
+
 * basit: içerisinde tek bir veri barındırır
   * int, char, float
 * karmaşık (çoklu):içerisinde birden fazla veri barındırır
@@ -22,11 +23,14 @@ Bu ders bilginin (temel yapıtaşı veri) organizasyonu ile ilgilenmektedir. Ayr
       * hash tables
 
 **Veri Yapısı Neden Önemlidir?**
+
 Sıradan kod yazan kişiler ile iyi bir bilgisayar (yazılım) mühendisi arasındaki fark, veri yapılarının kullanmasıyla anlaşlaşılır. 
+
 Her yazılım içeren sistem temelde 
 * giriş olarak veri alır
 * bu veriyi işler
 * işlenen veri çıkış olarak verilir
+
 Bu sürecin verimli olması için işlenen verinin iyi organize edilmesi gerekir. Bu da veri yapılarını bilmek ve uygulamakla mümkün olur. Verinin iyi organize edilmesi, verinin giriş olarak alınması, işlenmesi ve çıkış olarak verilmesi süreçlerini verimli hale getirir.
 
 *Örnek*: 00_gpa.py python kodunu ve veri yapısı kullanarak yazılan versiyonunu inceleyiniz.
