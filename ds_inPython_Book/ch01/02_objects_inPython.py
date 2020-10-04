@@ -21,7 +21,13 @@ print(n1)
 f1 = float(input("Please enter your grade: "))
 print(f1)
 
-# list, tuple, str
+s1 = str() # empty string
+s2 = 'hello'
+s3 = "world"
+s4 = str("hello" + s3)
+print(s4)
+
+# list, tuple,
 # A list instance stores a sequence of objects. A list is a referential structure,
 l1 = list() # empty list
 l1 = list([2,3])
@@ -34,12 +40,6 @@ print(t1)
 t1 = tuple([2,3])  # t1 is immutable or
 t1 = (2,3)
 print(t1)
-
-s1 = str() # empty string
-s2 = 'hello'
-s3 = "world"
-s4 = str("hello" + s3)
-print(s4)
 
 # set, frozenset
 # Python’s set class represents the mathematical notion of a set, namely a collection of elements, without duplicates, and without an inherent order to those elements.

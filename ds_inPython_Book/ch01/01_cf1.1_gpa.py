@@ -1,10 +1,4 @@
 # cf1.1
-# 1. whitespace is important in Python, code indention is made by whitespace
-# 2. new_line character is the end of statement
-# 3. # chararacter is for comment 
-# 4. if a line continues to next line, \ char is used
-# 5. if an opening delimiter has not yet been closed, such as the { character in deﬁning value map
-# 6. case sensitive
 
 print('Welcome to the GPA calculator.')
 print('Please enter all your letter grades, one per line.')
