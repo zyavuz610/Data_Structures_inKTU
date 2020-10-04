@@ -16,6 +16,7 @@
   * Aşağıdakine benzer bir Python kodu ile çalışma zamanı elde edilebilir.
 
 <code>
+
 from time import time
 
 start time = time( )                # record the starting time
