@@ -19,3 +19,20 @@
 ---
 
 ### Object-Oriented in Python
+* Bu bölümde Nesne Yönelimli Programlama ile ilgili temel kavramlara değinilecektir. 
+* Daha ayrıntılı bilgi "Nesne Yönelimli Programlama" dersinde C++ dili ile anlatılmaktadır. 
+  * Python dili çok sıkı bir Nesne Yönelimli dil olmamasına rağmen bir çok temel özellikleri desteklemektedir.
+  * C++ dili de böyledir.
+  * Java dili daha sıkı bir Nesne Yönelimli Programlama dilidir.
+* Nesne Yönelimli Programlamaya neden ihtiyaç duyulur?
+  * Robustness: Yazılan kod hatalara karşı daha dayanıklıdır.
+  * Adaptability: yazılan kod farklı projelere daha kolay adapte edilebilmektedir.
+  * Reusability: Yazılan kodun yeniden kullanılabilirliği sağlanmaktadır.
+* Nesne bellekte yer kaplayan ve tanımlı bir sınıfın sureti (örneğidir).
+* class(sınıf) ise nesnenin (object) tanımıdır.
+* Her nesnenin 2 önemli bileşeni vardır:
+  * Durum bilgilerinin tutulduğu değişkenler (status, variable)
+  * Nesnenin davranışını ifade eden fonksiyonlar (method)
+* ---
+* Bir sınıfı tanımlarken <code>class ClassName</code> şeklinde bir tanım kullanılır.
+* Örn; ch02/CreditCard.py
