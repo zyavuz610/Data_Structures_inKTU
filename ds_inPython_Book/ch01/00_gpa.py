@@ -11,7 +11,7 @@ print('Enter a blank line to designate the end.')
 # map from letter grade to point value
 points = {'AA', 'BA', 'BB', 'CB', 'CC', 'DC', 'DD', 'FD', 'FF'}
 num_courses     = 0
-total_points    = 0
+total_points    = 0.0
 done = False
 while not done:
   grade = input()                          # read line from user

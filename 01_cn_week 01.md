@@ -2,7 +2,9 @@
 ---
 ## 1. Hafta
 ### Veri Yapılarına Giriş
+
 Bilgisayar = Bilgi + Sayar
+
 Bu ders bilginin (temel yapıtaşı veri) organizasyonu ile ilgilenmektedir. Ayrıca bu ders kapsamında algoritma ve programlama kısmına da değinilmektedir.
 
 **Veri**: bellekte yer kaplayan her türlü nesne
@@ -35,12 +37,13 @@ Bu sürecin verimli olması için işlenen verinin iyi organize edilmesi gerekir
 
 *Örnek*: 00_gpa.py python kodunu ve veri yapısı kullanarak yazılan versiyonunu inceleyiniz.
 
-* Ayrıca her problemi dizilerle çözmezsiniz, diziler bellekte sıralı elemanlardır ve bazen araya eleman eklemek, eleman silmek ve kalanları birer kaydırmak maliyetli olabilmektedir.
+* Ayrıca her problemi dizilerle çözmezsiniz, diziler bellekte sıralı elemanlardır ve bazen araya eleman eklemek, eleman silmek ve eleman sildikten kalanları birer kaydırmak maliyetli olabilmektedir.
+
 ---
 
 ### Python Programlamaya Giriş
 1. Python ekosisteminin kurulumu (Python3), anaconda, spyder, repl.it, colab
-1. *.py uzantılı betik dosyalar, interaktif python
+1. *.py uzantılı betik (script) dosyalar, interaktif python
 1. Ekrana bir şeyler yazılması, print()
 1. Temel kurallar
 1. Objects in Python
@@ -71,3 +74,15 @@ Bu sürecin verimli olması için işlenen verinin iyi organize edilmesi gerekir
       * val in s      : containment check
       * val not in s  : non-containment check
 
+---
+
+### 1. hafta toplantı notları
+https://github.com/zyavuz610/Data_Structures_inKTU
+
+**https://repl.it/**
+* **R**ead, Oku, veri girişi
+* **E**valuate, Process, veriyi işle
+* **P**rint, Yaz, veriyi çıktı olarak ver
+* **L**oop
+
+*Data Structures and Algorithms in Python* kitabı

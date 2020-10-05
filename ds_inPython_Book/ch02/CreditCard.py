@@ -6,10 +6,10 @@ Created on Mon Oct  5 14:44:46 2020
 """
 
 
-class CreditCard:
+class CreditCard:                               # class definition    
   """A consumer credit card."""
   
-  def __init__(self, customer, bank, acnt, limit):
+  def __init__(self, customer, bank, acnt, limit):      # constructor
     """Create a new credit card instance.
     The initial balance is zero.
     customer  the name of the customer (e.g., 'John Bowman')
@@ -17,8 +17,8 @@ class CreditCard:
     acnt      the acount identifier (e.g., '5391 0375 9387 5309')
     limit     credit limit (measured in dollars)
     """
-    self._customer = customer
-    self._bank = bank
+    self._customer = customer       # public variable
+    self._bank = bank               # if "__bank": private variable
     self._account = acnt
     self._limit = limit
     self._balance = 0
@@ -77,6 +77,7 @@ if __name__ == '__main__':
     print('Account =', wallet[c].get_account())
     print('Limit =', wallet[c].get_limit())
     print('Balance =', wallet[c].get_balance())
+    print('Balance2 =', wallet[c]._balance)         # publi variable
     while wallet[c].get_balance() > 100:
       wallet[c].make_payment(100)
       print('New balance =', wallet[c].get_balance())

@@ -9,6 +9,8 @@ t2 = temp
 t2 = 100 # a new dynamic variable
 print(temp)
 print(t2)
+print(id(temp))
+print(id(t2))
 
 b1 = bool() # an empty bool variable (value is False) 
 print(b1)
@@ -31,7 +33,7 @@ print(s4)
 # A list instance stores a sequence of objects. A list is a referential structure,
 l1 = list() # empty list
 l1 = list([2,3])
-print(l1)
+print(l1[1])
 
 # The tuple class provides an immutable version of a sequence
 t1 = tuple()  # t1 is immutable
@@ -39,7 +41,7 @@ print(t1)
 
 t1 = tuple([2,3])  # t1 is immutable or
 t1 = (2,3)
-print(t1)
+print(t1[0])
 
 # set, frozenset
 # Python’s set class represents the mathematical notion of a set, namely a collection of elements, without duplicates, and without an inherent order to those elements.
@@ -58,6 +60,7 @@ print(fs1)
 
 # dict (key:value)
 #Python’s dict class represents a dictionary, or mapping, from a set of distinct keys to associated values.
+             #      key :value
 points = {'AA':4.0, 'BA':3.5, 'BB':3.0, 'CB':2.5, 'CC':2.0, 'DC':1.5}
 print(points['AA'])
 print(points.get('BB'))
