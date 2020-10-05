@@ -35,6 +35,7 @@ Bu sürecin verimli olması için işlenen verinin iyi organize edilmesi gerekir
 
 *Örnek*: 00_gpa.py python kodunu ve veri yapısı kullanarak yazılan versiyonunu inceleyiniz.
 
+* Ayrıca her problemi dizilerle çözmezsiniz, diziler bellekte sıralı elemanlardır ve bazen araya eleman eklemek, eleman silmek ve kalanları birer kaydırmak maliyetli olabilmektedir.
 ---
 
 ### Python Programlamaya Giriş
