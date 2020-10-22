@@ -10,10 +10,10 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 **Hafta** | **Konu** | **Açıklama**
 --------- | -------- | ------------
 1.Hafta | Veri Yapılarına Giriş ve Python Programlamaya Giriş | 
-2.Hafta | Python Programlama (Nesne Yönelimli Programlama) | 
-3.Hafta | Diziler, Bağlı Listeler ve Özyineleme | 
-4.Hafta | Analiz Araçları | 
-5.Hafta | Yığınlar, Kuyruklar ve Çift-Sonlu Kuyruklar | 
+2.Hafta | Python Programlama-2 (Program Denetim Deyimleri ve Modüler Programlama) |  
+3.Hafta | Algoritma Analizi ve Özyineleme (Recursion) | 
+4.Hafta | Diziler, Python Nesne Yönelimli Programlama | 
+5.Hafta | Bağlı Listeler Yığınlar, Kuyruklar ve Çift-Sonlu Kuyruklar | 
 6.Hafta | Liste ve Ardışıl ADTler | 
 7.Hafta | Ağaçlar | 
 8.Hafta | Heapler ve Öncelikli Kuyruklar | 
