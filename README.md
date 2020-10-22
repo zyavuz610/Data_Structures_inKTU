@@ -30,4 +30,5 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 <img src="https://images-na.ssl-images-amazon.com/images/I/61KBExHOcRL._SX379_BO1,204,203,200_.jpg" width="156" height="200">
 
 * Veri Yapıları dersinde kaynak olarak **Data Structures and Algorithms in Python** kitabı kullanılmaktadır.
+  * Goodrich, Michael T., Roberto Tamassia, and Michael H. Goldwasser. **Data structures and algorithms in Python**. *John Wiley & Sons Ltd*, 2013.
 * Yardımcı kaynak olarak **Öğr. Gör. Ömer ÇAKIR**'ın Veri Yapıları ile ilgili hazırladığı [ders web sayfası](https://ceng2.ktu.edu.tr/~cakir/veri_yapilari.html) kullanılabilir.
