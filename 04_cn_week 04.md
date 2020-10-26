@@ -49,7 +49,6 @@
 * Bir sınıfı tanımlarken <code>class ClassName</code> şeklinde bir tanım kullanılır.
 * \__init__(): constructor
 
-<code>
 ```python
 class ClassName:
   def \__init__(self):   # constructor
@@ -71,6 +70,5 @@ class ClassName:
   self.__var4 = ...     # private variables
   __var5      = ... 
 ```
-</code>
 
 * Örn; ch02/CreditCard.py
