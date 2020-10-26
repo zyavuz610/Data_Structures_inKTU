@@ -32,7 +32,42 @@
 * class(sınıf) ise nesnenin (object) tanımıdır.
 * Her nesnenin 2 önemli bileşeni vardır:
   * Durum bilgilerinin tutulduğu değişkenler (status, variable)
+    * public
+      * class içerinde doğrudan kullanılırlar, class dışından ve içerisinden erişilebilirler.
+      * kodlama stili olarak başına _ eklenebilir. (zorunlu değildir ancak method isimleri ile karışmasınlar diye boyle bir kodlama stili geliştirilebilir).
+    * private
+      * class dışından erişilemeyen, sadece class içerisindeki metodlar tarafından erişilebilen değişkenlerdir.
+      * bir değişkeninin başına çift alt çizgi (__, double underscore) eklendiğinden o değişken private olur.
+      * bu değişkenlere erişim için **getter** ve **setter** methodlar tanımlanabilir.
   * Nesnenin davranışını ifade eden fonksiyonlar (method)
+    * Nesne oluşturulurken otomatik çağrılan metod, constructor, : **__init(self)__**
+    * Nesne bellekten silinirken otomatik çağrılan fonksiyon, : **__del(self)__**
+    * sıradan methodlar
+    * Tüm methodlar ilk parametre olarak nesnenin kendisini alırlar (self)
 * ---
 * Bir sınıfı tanımlarken <code>class ClassName</code> şeklinde bir tanım kullanılır.
+* __init__(): constructor
+
+<code>
+class ClassName:
+  def __init__(self):   # constructor
+    ....
+
+  def func1(self):      # parametresiz method
+    .... 
+  
+  def func2(self,a,b):  # 2 parametreli method
+    .... 
+  
+  def __del__(self):    # destructor
+    ....
+
+  self._var1  = ...     # public variables
+  self.var2   = ...
+  var3        = ...
+
+  self.__var4 = ...     # private variables
+  __var5      = ... 
+</code>
+
 * Örn; ch02/CreditCard.py
