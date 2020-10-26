@@ -14,7 +14,8 @@
       * k * s : shorthand for s + s + s + ... (k times)
       * val in s      : containment check
       * val not in s  : non-containment check
-* Örn; ch05/list_expand.py
+* **Örn;** ch05/list_expand.py
+* **Ödev:** sıralı listede araya eleman ekleme
 
 ---
 
