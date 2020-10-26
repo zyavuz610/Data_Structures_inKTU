@@ -50,6 +50,7 @@
 * \__init__(): constructor
 
 <code>
+<pre>
 class ClassName:
   def __init__(self):   # constructor
     ....
@@ -69,6 +70,7 @@ class ClassName:
 
   self.__var4 = ...     # private variables
   __var5      = ... 
+</pre>
 </code>
 
 * Örn; ch02/CreditCard.py
