@@ -50,7 +50,7 @@
 * \__init__(): constructor
 
 <code>
-```
+```python
 class ClassName:
   def \__init__(self):   # constructor
     ....
