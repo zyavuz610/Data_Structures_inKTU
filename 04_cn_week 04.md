@@ -41,13 +41,13 @@
       * bir değişkeninin başına çift alt çizgi (__, double underscore) eklendiğinden o değişken private olur.
       * bu değişkenlere erişim için **getter** ve **setter** methodlar tanımlanabilir.
   * Nesnenin davranışını ifade eden fonksiyonlar (method)
-    * Nesne oluşturulurken otomatik çağrılan metod, constructor, : **__init(self)__**
-    * Nesne bellekten silinirken otomatik çağrılan fonksiyon, : **__del(self)__**
+    * Nesne oluşturulurken otomatik çağrılan metod, constructor, : **\__init(self)__**
+    * Nesne bellekten silinirken otomatik çağrılan fonksiyon, : **\__del(self)__**
     * sıradan methodlar
     * Tüm methodlar ilk parametre olarak nesnenin kendisini alırlar (self)
 * ---
 * Bir sınıfı tanımlarken <code>class ClassName</code> şeklinde bir tanım kullanılır.
-* __init__(): constructor
+* \__init__(): constructor
 
 <code>
 class ClassName:
