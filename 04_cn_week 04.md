@@ -50,9 +50,9 @@
 * \__init__(): constructor
 
 <code>
-<pre>
+```
 class ClassName:
-  def __init__(self):   # constructor
+  def \__init__(self):   # constructor
     ....
 
   def func1(self):      # parametresiz method
@@ -61,7 +61,7 @@ class ClassName:
   def func2(self,a,b):  # 2 parametreli method
     .... 
   
-  def __del__(self):    # destructor
+  def \__del__(self):    # destructor
     ....
 
   self._var1  = ...     # public variables
@@ -70,7 +70,7 @@ class ClassName:
 
   self.__var4 = ...     # private variables
   __var5      = ... 
-</pre>
+```
 </code>
 
 * Örn; ch02/CreditCard.py
