@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  5 12:23:32 2020
-
-@author: zafer
-"""
-
-
 
 
 class ArrayStack:
@@ -40,24 +32,33 @@ class ArrayStack:
     Raise Empty exception if the stack is empty.
     """
     if self.is_empty():
-      raise False
+      raise Empty('Stack is empty')
     return self._data.pop()               # remove last item from list
+  def printStack(self):
+    print(self._data)
 
 if __name__ == '__main__':
   S = ArrayStack()                 # contents: [ ]
   S.push(5)                        # contents: [5]
+  S.printStack()
   S.push(3)                        # contents: [5, 3]
+  S.printStack()
   print(len(S))                    # contents: [5, 3];    outputs 2
   print(S.pop())                   # contents: [5];       outputs 3
+  S.printStack()
   print(S.is_empty())              # contents: [5];       outputs False
   print(S.pop())                   # contents: [ ];       outputs 5
   print(S.is_empty())              # contents: [ ];       outputs True
+  S.printStack()
   S.push(7)                        # contents: [7]
   S.push(9)                        # contents: [7, 9]
+  S.printStack()
   print(S.top())                   # contents: [7, 9];    outputs 9
   S.push(4)                        # contents: [7, 9, 4]
   print(len(S))                    # contents: [7, 9, 4]; outputs 3
   print(S.pop())                   # contents: [7, 9];    outputs 4
   S.push(6)                        # contents: [7, 9, 6]
   S.push(8)                        # contents: [7, 9, 6, 8]
+  S.printStack()
   print(S.pop())                   # contents: [7, 9, 6]; outputs 8
+  S.printStack()
