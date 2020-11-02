@@ -1,0 +1,10 @@
+### Yığın (Stack)
+
+* Yığın, son giren ilk çıkar (last in first out - LIFO) mantığına göre çalışan veri yapısıdır.
+* En çok kullanılan, çok önemli ve en basit veri yapısıdır.
+* Aslında yığın, LIFO özellikleri sunan bir dizidir. Şöyleki:
+    * diziye eleman eklerken en sona eklenir (push)
+    * diziden elaman çıkarılırken en son eklenen eleman (top) çıkarılır (pull, pop)
+    * yığında en son eklenen elemanın indisini tutmak için top indisi kullanılabilir.
+        * top indisi 0 ise yığın boştur
+        * top indisi maksimum kapasite ise yığın doludur
