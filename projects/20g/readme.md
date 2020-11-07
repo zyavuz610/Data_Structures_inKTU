@@ -1,0 +1,1 @@
+Bu dizin, 2020-2021 Bahar dönemine ilişkin proje dosyalarını içerir.
