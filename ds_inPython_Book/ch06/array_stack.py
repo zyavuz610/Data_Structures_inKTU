@@ -24,7 +24,7 @@ class ArrayStack:
     Raise Empty exception if the stack is empty.
     """
     if self.is_empty():
-      raise False
+      return False
     return self._data[-1]                 # the last item in the list
 
   def pop(self):
@@ -32,7 +32,7 @@ class ArrayStack:
     Raise Empty exception if the stack is empty.
     """
     if self.is_empty():
-      raise Empty('Stack is empty')
+      return False
     return self._data.pop()               # remove last item from list
   def printStack(self):
     print(self._data)

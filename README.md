@@ -14,9 +14,9 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 3.Hafta | Algoritma Analizi ve Özyineleme (Recursion) | 
 4.Hafta | Diziler, Python Nesne Yönelimli Programlama | 
 5.Hafta | Yığınlar (Stack), Yığınlar ile ilgili problemler  | 
-6.Hafta | Kuyruklar ve Çift-Sonlu Kuyruklar, Liste ve Ardışıl ADTler | 
-7.Hafta | Ağaçlar | 
-8.Hafta | Heapler ve Öncelikli Kuyruklar | 
+6.Hafta | Kuyruklar ve Çift-Sonlu Kuyruklar | 
+7.Hafta | Listeler (Lists) ve Ardışıl ADTler | 
+8.Hafta | Ağaçlar, Heapler ve Öncelikli Kuyruklar | 
 9.Hafta | Arasınav Haftası | 
 10.Hafta | Hash Tabloları, Mapler ve Skip Listeleri | 
 11.Hafta | Arama Ağaçları | 
