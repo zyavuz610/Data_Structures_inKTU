@@ -15,6 +15,7 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 4.Hafta | Diziler, Python Nesne Yönelimli Programlama | 
 5.Hafta | Yığınlar (Stack), Yığınlar ile ilgili problemler  | 
 6.Hafta | Kuyruklar ve Çift-Sonlu Kuyruklar | 
+7.Hafta | Uygulama Dersi (Python Kodlama) |
 7.Hafta | Listeler (Lists) ve Ardışıl ADTler | 
 8.Hafta | Ağaçlar, Heapler ve Öncelikli Kuyruklar | 
 9.Hafta | Arasınav Haftası | 

@@ -1,4 +1,9 @@
-# kuyruk veri yapısı
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Nov 14 14:43:20 2020
+
+@author: zafer
+"""
 class ArrayQueue:
   """FIFO queue implementation using a Python list as underlying storage."""
   DEFAULT_CAPACITY = 20          # moderate capacity for all new queues
@@ -54,20 +59,9 @@ class ArrayQueue:
       self._data[k] = old[walk]            # intentionally shift indices
       walk = (1 + walk) % len(old)         # use old size as modulus
     self._front = 0                      
-
-Q = ArrayQueue()
-print(Q.first(),Q.__len__(),Q._data)
-Q.enqueue("Belge 1")
-Q.enqueue("Belge 2")
-Q.enqueue("Belge 3")
-print(Q.first(),Q.__len__(),Q._data)
-Q.enqueue("Belge 4")
-Q.enqueue("Belge 5")
-Q.dequeue()
-Q.dequeue()
-Q.enqueue("Belge 7")
-Q.enqueue("Belge 8")
-
-print(Q.first(),Q.__len__(),Q._data)
-Q.enqueue("Belge 6")
-print(Q.first(),Q.__len__(),Q._data)
+  def printQueue(self):
+    walk = self._front
+    for k in range(self._size):            # only consider existing elements
+      print(self._data[walk],end=",")              # intentionally shift indices
+      walk = (1 + walk) % self._size 
+    print("")

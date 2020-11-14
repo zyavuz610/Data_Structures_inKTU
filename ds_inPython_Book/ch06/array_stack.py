@@ -1,5 +1,3 @@
-
-
 class ArrayStack:
   """LIFO Stack implementation using a Python list as underlying storage."""
 
