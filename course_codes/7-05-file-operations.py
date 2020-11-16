@@ -10,10 +10,10 @@ S = ArrayStack()
 
 sfile = "source.c"
 original = open(sfile) 
-print(original)  
     
 for line in original:
-  S.push(line.rstrip('\n'))
+  l = line.rstrip('\n')
+  S.push(l)
 original.close()
 
 tfile = "target.c"

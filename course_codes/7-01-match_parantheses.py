@@ -21,6 +21,6 @@ s2 = "()(()){([()])}"       # correct,
 s3 = "((()(()){([()])}))"   # Correct: 
 s4 = ")(()){([()])}"        # Incorrect:, yığın durumu? 
 s5 = "({["                  # Incorrect:, yığın durumu?
-s6 = "("                    # yığın durumu ??    
+s6 = "()"                    # yığın durumu ??    
 
-print(is_matched(s))
+print(is_matched(s5))

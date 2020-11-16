@@ -13,6 +13,7 @@ credit = ArrayQueue()
 
 n = 10
 for i in range(n):
+    print(i,"---------------------------------")
     r = random.randrange(1,4)
     if r==1:
         cash.enqueue("Customer "+str(i))
@@ -30,3 +31,4 @@ for i in range(n):
     cash.printQueue()
     print("Credit:")
     credit.printQueue()
+    print("---------------------------------")
