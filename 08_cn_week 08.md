@@ -1,6 +1,6 @@
 # Haftalık Ders Notları
 ---
-## 5. Hafta
+## 8. Hafta
 
 ### Listeler (Lists)
 

@@ -1,6 +1,6 @@
 # Haftalık Ders Notları
 ---
-## 5. Hafta
+## 7. Hafta
 
 ### Uygulama
 

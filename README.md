@@ -16,9 +16,11 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 5.Hafta | Yığınlar (Stack), Yığınlar ile ilgili problemler  | 
 6.Hafta | Kuyruklar ve Çift-Sonlu Kuyruklar | 
 7.Hafta | Uygulama Dersi (Python Kodlama) |
-7.Hafta | Listeler (Lists) ve Ardışıl ADTler | 
-8.Hafta | Ağaçlar, Heapler ve Öncelikli Kuyruklar | 
+8.Hafta | Listeler (Lists) ve Ardışıl ADTler | 
 9.Hafta | Arasınav Haftası | 
+10.Hafta | Arasınav Haftası | 
+11.Hafta | Listeler (Lists) ile ilgili örnek uygulama | 
+x.Hafta | Ağaçlar, Heapler ve Öncelikli Kuyruklar | 
 10.Hafta | Hash Tabloları, Mapler ve Skip Listeleri | 
 11.Hafta | Arama Ağaçları | 
 12.Hafta | Sıralama, Kümeler ve Seçme | 
