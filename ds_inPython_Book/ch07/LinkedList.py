@@ -5,7 +5,6 @@ class LinkedList:
   # nested _Node class
   class _Node:
     """Lightweight, nonpublic class for storing a doubly linked node."""
-
     def __init__(self, e, prev, next):                  # initialize node's fields
       self._element = e                                 # user's element
       self._prev = prev                                 # previous node reference
@@ -32,10 +31,10 @@ class LinkedList:
 
   def add_first(self,e):
     newest = self._Node(e,None,self._head)
-    if self._size == 0:
+    if self._size == 0:       # liste boş ise
        self._head = newest
        self._tail = newest
-    else:
+    else:                     # dolu listenin başına eleman ekle
         self._head._prev = newest
         self._head = newest
     self._size += 1
@@ -74,8 +73,6 @@ class LinkedList:
       cur = cur._prev
     print("")
   #-------------------------- nonpublic utilities --------------------------
-
-
 
   def _insert_between(self, e, predecessor, successor):
     """Add element e between two existing nodes and return new node."""

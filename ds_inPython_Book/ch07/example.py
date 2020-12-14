@@ -3,7 +3,8 @@
 import LinkedList as L
 
 l1 = L.LinkedList()
-l1.add_first(4)
+
+l1.insert(4)
 l1.print_list()
 l1.insert(7)
 l1.print_list()
@@ -21,6 +22,7 @@ l1.insert(1)
 l1.print_list()
 l1.insert(3)
 l1.print_list()
+l1.print_list_reverse()
 
 
 
