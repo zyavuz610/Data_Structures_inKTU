@@ -1,3 +1,12 @@
+# Haftalık Ders Notları
+---
+## 12. Hafta
+
+1. General Trees
+1. Binary Trees
+1. inorder, preorder, postoerder
+1. binary-tree implementation
+
 ```
 class Node:
     def __init__(self, data):
