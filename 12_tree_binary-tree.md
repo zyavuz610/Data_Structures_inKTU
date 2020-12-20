@@ -1,4 +1,4 @@
-<code>
+```
 class Node:
     def __init__(self, data):
         self.left = None
@@ -37,4 +37,4 @@ root.insert(8)
 root.insert(13)
 root.insert(23)
 root.PrintTree()
-</code>
+```
