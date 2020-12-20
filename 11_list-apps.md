@@ -1,6 +1,6 @@
 # Haftalık Ders Notları
 ---
-## 9 ve 10. Hafta
+## 11. Hafta
 
 ### Listelerle ilgili örnek uygulama
 

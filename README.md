@@ -20,7 +20,7 @@ Veri Yapıları dersini (bu depodaki ders notları ve kodları) anlayabilmek iç
 9.Hafta | Arasınav Haftası | 
 10.Hafta | Arasınav Haftası | 
 11.Hafta | Listeler (Lists) ile ilgili örnek uygulama | 
-x.Hafta | Ağaçlar, Heapler ve Öncelikli Kuyruklar | 
+12.Hafta | Ağaçlar, İkili Ağaç, Preorder, Post order, inorder | 
 10.Hafta | Hash Tabloları, Mapler ve Skip Listeleri | 
 11.Hafta | Arama Ağaçları | 
 12.Hafta | Sıralama, Kümeler ve Seçme | 
