@@ -22,9 +22,9 @@ class Node:
     def PrintTree(self):
         if self.left:
             self.left.PrintTree()
-        print( self.data)
         if self.right:
             self.right.PrintTree()
+        print( self.data)
 
 # Use the insert method to add nodes
 root = Node(12)

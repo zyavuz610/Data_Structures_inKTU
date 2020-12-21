@@ -2,10 +2,12 @@
 ---
 ## 12. Hafta
 
+### Tree (Ağaç) Veri Yapısı
+
 1. General Trees
 1. Binary Trees
-1. inorder, preorder, postoerder
-1. binary-tree implementation
+1. inorder, preorder, postorder
+1. binary-tree python implementation
 
 ```
 class Node:
