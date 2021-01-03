@@ -20,10 +20,15 @@
         * sağ düğüm için euler tour
         * kök düğümü son ziyaret et, post-visit
 * Örnek Uygulama (Ödev 4)
-    * Ağaç üzerine eleman ekleme ve gezinme (kodu derste yazıldı)
-    * Ağaçtan düğüm silen program
+    * Ağaç üzerine eleman ekleme (kodu derste yazıldı)
     * Ağaç üzerinde gezinme
-    * Euler tour
+        * DFS, BFS
+        * inorder, preorder, postorder (derste kodu yazıldı)
+        * Euler tour
+    * Ağacın ekrana yazılması, (linux tree command) veya görsel grafik (sf. 347)
+* Örnek Uygulama (Ödev 5)
+    * Ağaçtan düğüm silen program (Yöntem 1 ve 2'nin ikisi de kodlanacak)
+* Örnek Uygulama (Ödev 6)
     * Ağacın ekrana yazılması, (linux tree command) veya görsel grafik (sf. 347)
 
 ### Priority Queue (Öncelikli Kuyruk)
