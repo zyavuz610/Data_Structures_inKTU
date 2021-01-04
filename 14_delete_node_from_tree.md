@@ -29,7 +29,7 @@
         * BFS (kodu yazılacak)
         * Euler tour (derste yazılan kodda yanlış çıktı var, düzeltilecek)
 * Örnek Uygulama (Ödev 6)
-    * Ağacın ekrana yazılması, (linux tree command) veya görsel grafik (sf. 347)
+    * Ağacın ekrana yazılması, (linux tree command) veya görsel grafik (ders kitabı sf. 347)
 
 ### Priority Queue (Öncelikli Kuyruk)
 

@@ -26,10 +26,8 @@ class Node:
         print( self.data,end='-')
         if self.left:
             self.left.PrintTree()
-        
         if self.right:
             self.right.PrintTree()
-        print( self.data,end='-')
         
     def sizeTree(self): 
         if self.left and self.right:
