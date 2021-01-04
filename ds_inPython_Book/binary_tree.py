@@ -26,8 +26,10 @@ class Node:
         print( self.data,end='-')
         if self.left:
             self.left.PrintTree()
+        
         if self.right:
             self.right.PrintTree()
+        print( self.data,end='-')
         
     def sizeTree(self): 
         if self.left and self.right:
@@ -53,14 +55,17 @@ class Node:
 
 # Use the insert method to add nodes
 
-root = Node(12)
-root.insert(6)
-root.insert(14)
-root.insert(3)
+root = Node(25)
+root.insert(12)
+root.insert(10)
+root.insert(22)
 root.insert(5)
-root.insert(8)
-root.insert(13)
-root.insert(23)
+root.insert(36)
+root.insert(30)
+root.insert(40)
+root.insert(28)
+root.insert(38)
+root.insert(48)
 root.PrintTree()
 
 
